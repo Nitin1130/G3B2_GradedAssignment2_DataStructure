@@ -1,6 +1,6 @@
-package driver;
+package Skyscraper.driver;
 
-import services.Skyscraper;
+import Skyscraper.services.Skyscraper;
 
 import java.util.Scanner;
 
